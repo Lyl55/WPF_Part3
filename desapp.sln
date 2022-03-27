@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "desapp", "desapp\desapp.csproj", "{EBE0DF5E-07B5-449E-B776-6A35E18F0AC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewRecord", "NewRecord\NewRecord.csproj", "{22CC542F-2CE7-4E8A-AB93-C5EF2F796405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE0DF5E-07B5-449E-B776-6A35E18F0AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE0DF5E-07B5-449E-B776-6A35E18F0AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE0DF5E-07B5-449E-B776-6A35E18F0AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE0DF5E-07B5-449E-B776-6A35E18F0AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22CC542F-2CE7-4E8A-AB93-C5EF2F796405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CC542F-2CE7-4E8A-AB93-C5EF2F796405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CC542F-2CE7-4E8A-AB93-C5EF2F796405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CC542F-2CE7-4E8A-AB93-C5EF2F796405}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22DDBADB-D2C7-4199-A1C9-6997021F303C}
+	EndGlobalSection
+EndGlobal
